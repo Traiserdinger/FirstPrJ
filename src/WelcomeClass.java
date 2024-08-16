@@ -3,6 +3,6 @@ public class WelcomeClass {
         String Name = "Nguyen Duc Trung";
         String Course = "DHKTPM19B - 420300359104";
         System.out.println("Hello " + Name);
-        System.out.println("Welcome to" + Course);
+        System.out.println("Welcome to " + Course);
     }
 }
